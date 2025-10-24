@@ -1,2 +1,2 @@
 # site
-https://apiyapanee.github.io/site/
+https://apiyapanee.github.io/home/
